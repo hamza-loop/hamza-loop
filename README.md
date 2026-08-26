@@ -1,12 +1,30 @@
-- 👋 Hi, I’m @hamza-loop  
-- 👀 I’m interested in Artificial Intelligence (AI), Machine Learning, and cutting-edge technology.  
-- 🌱 I’m currently learning Data Structures and Algorithms (DSA) to sharpen my programming skills.  
-- 💞️ I’m looking to collaborate on AI-related projects, open-source contributions, and innovative tech solutions.  
-- 📫 How to reach me: hamzamd2877@gmail.com 
-- 😄 Pronouns: He/Him  
-- ⚡ Fun fact: I love solving logic puzzles and coding challenges in my free time!  
+# Hi, I'm Hamza 👋
 
-<!---
-hamza-loop/hamza-loop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I am a B.Tech Computer Science Engineering (Artificial Intelligence) student at Jamia Hamdard with a growing interest in cybersecurity, web application security, and artificial intelligence.
+
+I enjoy building practical projects and strengthening my technical skills through hands-on learning. Currently, I am working on a Python-based Web Security Scanner designed to explore HTTP security checks, security configurations, and common web application security concepts.
+
+## Areas of Interest
+
+- Cybersecurity
+- Web Application Security
+- Python Development
+- Artificial Intelligence in Cybersecurity
+- Data Structures and Algorithms
+
+## Currently Learning
+
+I am continuously improving my knowledge of Python, cybersecurity fundamentals, web security concepts, and secure software development.
+
+## Projects
+
+- **Web Security Scanner** — A Python-based project for exploring HTTP requests and identifying potential security configuration issues.
+
+## Connect With Me
+
+- **LinkedIn:** [Md Hamza](https://www.linkedin.com/in/md-hamza-55685a2a4/)
+- **Email:** hamzamd2877@gmail.com
+
+---
+
+*Always learning, building, and improving.*
