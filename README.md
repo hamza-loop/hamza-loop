@@ -1,4 +1,4 @@
-# Hi, I'm Hamza 
+# Hi, I'm Md Hamza 
 
 I am a B.Tech Computer Science Engineering (Artificial Intelligence) student at Jamia Hamdard with a growing interest in cybersecurity, web application security, and artificial intelligence.
 
